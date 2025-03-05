@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,deepmind.com
@@ -24,3 +23,11 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,openai
+
+# claude
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,cdn.usefathom.com
