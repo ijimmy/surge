@@ -9,9 +9,9 @@ try {
     console.log(data.data);
     data.data.saleState = 2; // 在售状态
     // data.data.canAddCart = true;
-    data.data.buttonState = 1;
-    data.data.buttonStateDes = "立即购票";
-    data.data.allowChooseSeat = true;
+    // data.data.buttonState = 1;
+    // data.data.buttonStateDes = "立即购票";
+    // data.data.allowChooseSeat = true;
 
     // 防止一些前端校验为空
     data.data.guideState = 1;
