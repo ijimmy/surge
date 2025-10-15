@@ -14,9 +14,9 @@ try {
     // data.data.allowChooseSeat = true;
 
     // 防止一些前端校验为空
-    data.data.guideState = 1;
-    data.data.channelAuthorizeStatus = 1;
-    data.data.eventSaleStage = 2;
+    // data.data.guideState = 1;
+    // data.data.channelAuthorizeStatus = 1;
+    // data.data.eventSaleStage = 2;
   }
 
   // ✅ 子赛事可售状态模拟
